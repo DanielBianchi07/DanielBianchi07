@@ -9,11 +9,10 @@
 
 ## Histórico de Programação:
 - Minha primeira linguagem de programação foi Python.
-- Atualmente, estou estudando o framework Django.
+- Atualmente, estou estudando desenvolvimento de sistemas web em C#/.NET.
 
 ## Aprendizado Contínuo:
 - Buscando aumentar meu conhecimento em programação orientada a objetos utilizando C#.
-- Interesse na área de dados utilizando Python.
 - Interesse na área de desenvolvimento de software utilizando C#.
 
 ## Aspirações:
