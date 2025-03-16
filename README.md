@@ -3,9 +3,9 @@
 - Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rio Preto.
 
 ## Experiência Profissional:
-- Atualmente trabalhando como estagiário em uma empresa de medicina ocupacional.
-- Auxiliando o departamento de segurança do trabalho em tarefas diárias.
-- Contribuindo com ideias e sugestões para melhorias nos processos da empresa.
+- Atualmente trabalhando como estagiário em uma empresa de desenvolvimento de software que utiliza a plataforma de desenvolvimento Low-Code Genexus.
+- Participando de reuniões frequentes para alinhamento de tarefas, recebimento de demandas e troca de informações com a equipe, e quando solicitado, realizo a tomada de decisão.
+- Contribuindo com ideias e sugestões para melhorias nos processos e metodologias da empresa.
 
 ## Histórico de Programação:
 - Minha primeira linguagem de programação foi Python.
